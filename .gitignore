@@ -1,0 +1,3 @@
+tools/.captures/
+*.rbxl.lock
+node_modules/
